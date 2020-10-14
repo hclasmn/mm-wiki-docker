@@ -1,5 +1,5 @@
 # mm-wiki-docker
-
+每周自动更新一次镜像
 Docker 部署（原作者https://github.com/phachon/mm-wiki）
 
 # 数据库准备
