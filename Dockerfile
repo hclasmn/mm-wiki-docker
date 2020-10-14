@@ -1,9 +1,9 @@
-FROM alpine/git
+FROM alpine:latest
 
 ENV TZ=Asia/Shanghai
 
 WORKDIR /app
-
+RUN apk add --no-cache git
 RUN git clone https://github.com/phachon/mm-wiki.git
 
 
