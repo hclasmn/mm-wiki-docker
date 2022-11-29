@@ -2,6 +2,8 @@
 每周自动更新一次镜像
 Docker 部署（原作者https://github.com/phachon/mm-wiki）
 
+
+
 # 数据库准备
 # 导入docs/databases/data.sql和docs/databases/table.sql（注：需取消注释data.sql中第一条管理用户插入语句）
 
